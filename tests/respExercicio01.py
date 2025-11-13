@@ -8,6 +8,7 @@ Aluno1 = Aluno("Ana", "2023001", "Engenharia")
 Aluno2 = Aluno("Pedro", "2023002", "Economia")
 
 
+
 class Disciplina:
     def __init__(self, nome, codigo, carga_horaria):
         self.nome = nome
